@@ -2,7 +2,7 @@
 package geometri;
 
 public class PersegiPanjang {
-    private double panjang, lebar;
+    double panjang, lebar;
     
     public double luas(){
         return panjang * lebar;

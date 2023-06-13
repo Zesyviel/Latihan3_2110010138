@@ -2,7 +2,7 @@
 package geometri;
 
 public class Lingkaran {
-    private double radius;
+    double radius;
     
     public double luas(){
         return 22/7 * radius * radius;
